@@ -5,7 +5,8 @@
 <li>npm install </li>
 <li>npm start</li>
 </ul>
-Runs the app in the development mode.\
+Runs the app in the development mode. 
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Steps for Getting started with React App from Scrach
@@ -46,6 +47,6 @@ You will also see any lint errors in the console.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
